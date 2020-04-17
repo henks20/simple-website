@@ -1,6 +1,6 @@
 # Simple website
 
-Simple webiste using: 
+Simple website using: 
 * HTML
 * CSS
 * RWD.
