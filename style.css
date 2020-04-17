@@ -212,6 +212,11 @@ section {
 .innerFlexContainer h3 {
   font-size: 30px;
   margin-bottom: 10px;
+  position: relative;
+}
+
+.innerFlexContainer p {
+  position: relative;
 }
 
 .btn-two {
